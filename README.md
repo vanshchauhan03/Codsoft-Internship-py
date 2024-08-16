@@ -2,7 +2,7 @@ This project includes three main utilities written in Python:
 
 Rock-paper-scissors
 
-A Calculator
+Contact Book
 
 Password Generator
 
@@ -13,11 +13,11 @@ Features
 Stores no.of points for each player
 
 
-A Calculator
-The Calculator provides various mathematical functions such as basic arithmetic operations.
+Contact Book
+The contact book stores the contact in csv mode that can be easily excess.
 
 Features
-Basic arithmetic operations: addition, subtraction, multiplication, division
+Retrive contact or save or delete a contact
 
 
 
